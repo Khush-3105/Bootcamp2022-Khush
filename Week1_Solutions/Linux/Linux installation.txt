@@ -1,0 +1,3 @@
+1. Check 'Windows subsytem for linux' option in 'turn windows features on or of'.
+2. Download Ubuntu from Microsoft store.
+3. Open Ubuntu and enter user name and password.s
